@@ -23,8 +23,6 @@ Each table represents an entity or concept, and each row in the table represents
  
 ```
 
-
-
 ![SQL 1](assests/sql_1.png)
 
 ![SQL 2](assests/sql_2.png)
