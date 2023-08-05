@@ -20,3 +20,5 @@ throughout Java course. It is a way to document and highlight my new knowledge.
 ### [Java Basics](Java-Basics.md)
 
 ## Code 401 - Advanced Software Development
+
+### [Data Structures]([Data Structures.md)
