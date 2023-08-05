@@ -2,8 +2,8 @@
 
 ```
 
-I can keep track of my observations and questions from the reading assignments throughout Java course.
-It is a way to document and highlight my new knowledge.
+I can keep track of my observations and questions from the reading assignments
+throughout Java course. It is a way to document and highlight my new knowledge.
 
 ```
 
