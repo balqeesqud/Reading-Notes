@@ -5,6 +5,9 @@ Learning all aspects of Java development is vital to our growth as software deve
 as it forms the foundation of our study and equips us with the necessary skills to design, build, and
 maintain resilient and scalable applications using Java.
 ```
+## Things I want to know more about!
+
+
 
 - ##  What does “strong typed” mean?
 
