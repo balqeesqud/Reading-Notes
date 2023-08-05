@@ -21,4 +21,4 @@ throughout Java course. It is a way to document and highlight my new knowledge.
 
 ## Code 401 - Advanced Software Development
 
-### [Data Structures]([Data Structures.md)
+### [Data Structures](Data Structures.md)
