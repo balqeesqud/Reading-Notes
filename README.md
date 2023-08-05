@@ -17,6 +17,6 @@ It is a way to document and highlight my new knowledge.
 
 ## Code 301 - Intermediate Software Development
 
-### [Java Basics](Java_Basics.md)
+### [Java Basics](Java-Basics.md)
 
 ## Code 401 - Advanced Software Development
