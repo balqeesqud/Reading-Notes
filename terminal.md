@@ -4,8 +4,9 @@
 ## The Command Line (or terminal)
 
 ```
-Is a text-based interface used to interact with the operating system through commands. It allows users to perform various tasks such as navigating the file system, managing files, and executing programs.
-    I accessed the command line on Linux by opening the Terminal application.
+Is a text-based interface used to interact with the operating system through commands. It allows users to perform
+various tasks such as navigating the file system, managing files, and executing programs. I accessed the command
+line on Linux by opening the Terminal application.
 ```
 
  Common commands I used recently:
