@@ -9,6 +9,7 @@ It is a way to document and highlight my new knowledge.
 ## Code 102 - Intro to Software Development.
 
 ## Code 201 - Foundations of Software Development.
+### [Databases & SQL Notes](sql-notes.md)
 
 ## Code 301 - Intermediate Software Development.
 
