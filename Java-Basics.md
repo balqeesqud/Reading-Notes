@@ -13,7 +13,7 @@ maintain resilient and scalable applications using Java.
 
 ```
 which means that all variables must first be declared before they can be used.
-This involves stating the variable's type and name
+This involves stating the variable's type and name, & value won't be changed with the variable life time.
 ```
 
 - ##  What are the primitive data types?
