@@ -15,4 +15,4 @@ throughout Java course. It is a way to document and highlight my new knowledge.
 | Data Structures                           | [Data Structures](Data-Structures.md)  |
 | Growth Mindset                            | [Growth Mindset](Growth-Mindset.md)    |
 | Engineering Readings                      | [Engineering](Engineering.md)          |
-| Second class reading                      | [Java Basics](Class-02.md)             |
+| Second class reading                      | [Packages ,Arrays, Loops](Class-02.md) |
