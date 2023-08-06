@@ -9,9 +9,10 @@ throughout Java course. It is a way to document and highlight my new knowledge.
 
 |  Task                                     | Link                                   |
 |-------------------------------------------|----------------------------------------|
-| First class reading                       | [Java Basics](Java-Basics.md)          |
+| First class reading                       | [Java Basics](Class-01.md)             |
 | Prep: Introduction to SQL                 | [Databases & SQL Notes](sql-notes.md)  |
 | Practice in the Terminal                  | [terminal commands](terminal.md)       |
 | Data Structures                           | [Data Structures](Data-Structures.md)  |
 | Growth Mindset                            | [Growth Mindset](Growth-Mindset.md)    |
 | Engineering Readings                      | [Engineering](Engineering.md)          |
+| Second class reading                      | [Java Basics](Class-02.md)             |

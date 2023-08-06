@@ -1,4 +1,4 @@
-# Java Basics
+# Class 01
 
 ```
 Learning all aspects of Java development is vital to our growth as software developers in this module,
