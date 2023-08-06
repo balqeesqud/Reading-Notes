@@ -5,7 +5,8 @@
 1. ### Use an analogy to explain Built-In packages. Give examples
 
 ```
-Built-in packages in programming are like toolboxes with ready-to-use tools.They help programmers do common tasks without starting from  scratch. These toolboxes have different functions and modules that 
+Built-in packages in programming are like toolboxes with ready-to-use tools.They help programmers
+do common tasks without starting from  scratch. These toolboxes have different functions and modules that 
 make  coding easier and save time. 
 
 Examples: `java.lang`, `java.util`, `java.io`.
