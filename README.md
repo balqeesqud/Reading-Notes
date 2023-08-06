@@ -14,3 +14,4 @@ throughout Java course. It is a way to document and highlight my new knowledge.
 | Practice in the Terminal                  | [terminal commands](terminal.md)       |
 | Data Structures                           | [Data Structures](Data-Structures.md)  |
 | Growth Mindset                            | [Growth Mindset](Growth-Mindset.md)    |
+| Engineering                               | [Engineering](Engineering.md)          |
