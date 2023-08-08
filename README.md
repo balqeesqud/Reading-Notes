@@ -7,12 +7,13 @@ throughout Java course. It is a way to document and highlight my new knowledge.
 
 ## Code 401 - Advanced Software Development
 
-|  Task                                     | Link                                   |
-|-------------------------------------------|----------------------------------------|
-| First class reading                       | [Java Basics](Class-01.md)             |
-| Prep: Introduction to SQL                 | [Databases & SQL Notes](sql-notes.md)  |
-| Practice in the Terminal                  | [terminal commands](terminal.md)       |
-| Data Structures                           | [Data Structures](Data-Structures.md)  |
-| Growth Mindset                            | [Growth Mindset](Growth-Mindset.md)    |
-| Engineering Readings                      | [Engineering](Engineering.md)          |
-| Second class reading                      | [Packages ,Arrays, Loops](Class-02.md) |
+|  Task                                     | Link                                          |
+|-------------------------------------------|-----------------------------------------------|
+| First class reading                       | [Java Basics](Class-01.md)                    |
+| Second class reading                      | [Packages ,Arrays, Loops](Class-02.md)        |
+| Third class reading                       | [Primitives,Objects, Exceptions](Class-03.md) |
+| Prep: Introduction to SQL                 | [Databases & SQL Notes](sql-notes.md)         |
+| Practice in the Terminal                  | [terminal commands](terminal.md)              |
+| Data Structures                           | [Data Structures](Data-Structures.md)         |
+| Growth Mindset                            | [Growth Mindset](Growth-Mindset.md)           |
+| Engineering Readings                      | [Engineering](Engineering.md)                 |
