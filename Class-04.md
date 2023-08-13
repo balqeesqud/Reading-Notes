@@ -3,7 +3,7 @@
 ## Things I want to know more about
  -  To learn more about Object Oriented Programming. 
 
-## ** Object-Oriented Programming Concepts**
+## **Object-Oriented Programming Concepts**
 
 1. Explain the difference between an object and a class.
 
