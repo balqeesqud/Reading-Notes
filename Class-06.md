@@ -42,6 +42,24 @@
 
       design pattern is like a code library that includes various coding techniques shared by programmers around the world.
 
+    - Builder Pattern:
+
+       The Builder Pattern is a design pattern that focuses on creating complex objects by breaking down 
+       the construction process into smaller, manageable steps. It separates the construction of an object
+       from its representation, allowing for flexible and clear object creation. This pattern is analogous 
+       to a house builder following a blueprint to systematically construct a house with various attributes,
+       enhancing code organization and reusability.
+
+
+    - Observer Pattern
+
+      The Observer Pattern is a design pattern that facilitates the communication between different components
+      of a system by establishing a subscription-based relationship. In this pattern, an object (the subject) 
+      maintains a list of its dependents (observers), and when the subject undergoes a change, all its observers 
+      are automatically notified and updated. This pattern is akin to a news agency notifying subscribers about new 
+      articles, enabling loose coupling between subjects and observers and promoting efficient communication within
+      a software system.
+
    2. What is a Singleton?
 
       a design pattern that ensures that a class can only have one object.
