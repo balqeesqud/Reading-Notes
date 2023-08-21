@@ -15,6 +15,7 @@ throughout Java course. It is a way to document and highlight my new knowledge.
 | Fourth class reading                      | [OOP, Classes, Binary,Hexa/Decimal](Class-04.md)  |
 | Fifth class reading                       | [Linked List Example](Class-05.md)                |
 | Sixth class reading                       | [Review, static keyword, Singleton](Class-06.md)  |
+| Seventh class reading                     | [Question, & answer](Class-07.md)                 |
 | Prep: Introduction to SQL                 | [Databases & SQL Notes](sql-notes.md)             |
 | Practice in the Terminal                  | [terminal commands](terminal.md)                  |
 | Data Structures                           | [Data Structures](Data-Structures.md)             |
