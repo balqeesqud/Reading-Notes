@@ -63,4 +63,7 @@
         4. 405 Method Not Allowed. 
         5. 406 Not Acceptable.
 
+## Things I want to know more about 
 
+- Spring Boot (Java), to use this framework to build web applications more efficiently and with best practices.
+- Explore how to design and build APIs. 
