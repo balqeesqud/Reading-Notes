@@ -42,3 +42,6 @@
        rendering. Model attributes are essentially variables or objects that are passed from the controller to the 
        view, allowing dynamic content generation in HTML templates using expressions like ${attributeName} where 
        attributeName is the name of the model attribute. 
+
+## Things I want to know more about 
+   To dive deep into the spring topics. 
