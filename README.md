@@ -20,6 +20,7 @@ throughout Java course. It is a way to document and highlight my new knowledge.
 | Ninth class reading       | [HTTP WRRC](Class-09.md)                         |
 | Tenth class reading       | [Stack & Queue](Class-10.md)                     |
 | Eleventh class reading    | [SpringBoot ](Class-11.md)                       |
+| twelveth class reading    | [Spring Data JPA ](Class-12.md)                  |
 | Prep: Introduction to SQL | [Databases & SQL Notes](sql-notes.md)            |
 | Practice in the Terminal  | [terminal commands](terminal.md)                 |
 | Data Structures           | [Data Structures](Data-Structures.md)            |
