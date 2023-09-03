@@ -33,4 +33,6 @@
       extends JpaRepository?
       By defining a query method in the StudentRepository interface to find a student based on their name. Assuming to 
       have a Student entity with a name attribute.
-    
+
+## Things I want to know more about
+   - How to implement and put everything in the right way, after understanding all of these topics. 
