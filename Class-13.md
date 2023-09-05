@@ -1,6 +1,6 @@
 # Class 13
 
-## **Related data in Spring **
+## **Related data in Spring**
    1. Name a few real life examples of “One-To-Many” relationships.
       - Author and Books: One author can write many books, but each book has only one author.
       - Country and Cities: A country can have multiple cities, but each city belongs to one country.
