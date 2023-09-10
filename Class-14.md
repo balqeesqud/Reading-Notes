@@ -7,6 +7,7 @@
       usually made up of numbers and letters. This resulting string is called a "hash value" or simply a "hash.
 
    2. Explain to a non-technical friend what a hash function does to a password.
+
       Imagine your password is like a secret code for your online accounts, and you want to keep it safe. So, you use
       a special tool called a "hash function" that turns your password into a unique code.
  
