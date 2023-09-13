@@ -23,6 +23,7 @@ throughout Java course. It is a way to document and highlight my new knowledge.
 | twelve class reading      | [Spring Data JPA ](Class-12.md)                         |
 | Thirteen class reading    | [Unit/Integration/SpringMvc Testing ](Class-13.md)      |
 | Fourteen class reading    | [Authentication With Bcrypt And Sessions ](Class-14.md) |
+| Fifteen class reading     | [Trees Data Structure ](Class-15.md)                    |
 | Prep: Introduction to SQL | [Databases & SQL Notes](sql-notes.md)                   |
 | Practice in the Terminal  | [terminal commands](terminal.md)                        |
 | Data Structures           | [Data Structures](Data-Structures.md)                   |
