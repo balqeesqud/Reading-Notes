@@ -24,7 +24,7 @@
         decisively determine the authentication status based on the provided input.
 
 ## Spring Auth cheat sheet 
-   ![Spring Auth Cheat Sheet](SpringAuthCheatSheet.md)
+   [Spring Auth Cheat Sheet](SpringAuthCheatSheet.md)
 
 
 ##  Things I want to know more about
