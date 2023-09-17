@@ -14,6 +14,7 @@
       interoperability between different services
 
    2. Which authentication providers are covered in the tutorial?
+
       GitHub and Google
 
 ## Things I want to know more about
