@@ -25,6 +25,7 @@ throughout Java course. It is a way to document and highlight my new knowledge.
 | Fourteen class reading    | [Authentication With Bcrypt And Sessions ](Class-14.md)        |
 | Fifteen class reading     | [Trees Data Structure ](Class-15.md)                           |
 | Sixteen class reading     | [Creating User Accounts and Authenticating Users](Class-16.md) |
+| Seventeen class reading   | [Authorizing Users to View Secured Content](Class-17.md)       |
 | Prep: Introduction to SQL | [Databases & SQL Notes](sql-notes.md)                          |
 | Practice in the Terminal  | [terminal commands](terminal.md)                               |
 | Data Structures           | [Data Structures](Data-Structures.md)                          |
