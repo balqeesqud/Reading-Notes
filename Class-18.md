@@ -23,3 +23,8 @@
      The author of the article suggests that achieving complete security from all possible security threats is a 
      challenging and often impractical task. They highlight the complexities and difficulties involved in various 
      security practices and systems, implying that perfect security may remain out of reach.
+
+## Things I want to know more about
+   - Security Awareness: Explore the importance of security awareness among individuals and organizations.
+   - Risk Management: Study risk management in the context of security. Learn how organizations assess and manage 
+     security risks to make informed decisions.
