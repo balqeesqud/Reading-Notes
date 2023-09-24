@@ -27,8 +27,10 @@ throughout Java course. It is a way to document and highlight my new knowledge.
 | Sixteen class reading     | [Creating User Accounts and Authenticating Users](Class-16.md)       |
 | Seventeen class reading   | [Authorizing Users to View Secured Content](Class-17.md)             |
 | Eighteen class reading    | [Sanitizing User Input, And Many-To-Many Relationships](Class-18.md) |
+| Nineteen class reading    | [Stream Processing Using Collections And Lambdas](Class-19.md)       |
 | Prep: Introduction to SQL | [Databases & SQL Notes](sql-notes.md)                                |
 | Practice in the Terminal  | [terminal commands](terminal.md)                                     |
 | Data Structures           | [Data Structures](Data-Structures.md)                                |
 | Growth Mindset            | [Growth Mindset](Growth-Mindset.md)                                  |
 | Engineering Readings      | [Engineering](Engineering.md)                                        |
+
