@@ -29,7 +29,7 @@ throughout Java course. It is a way to document and highlight my new knowledge.
 | Eighteen class reading       | [Sanitizing User Input, And Many-To-Many Relationships](Class-18.md)                       |
 | Nineteen class reading       | [Stream Processing Using Collections And Lambdas](Class-19.md)                             |
 | Twenty-six class reading     | [Class 26: Android Basics - Activities, Layouts, Event Handlers, And Intents](Class-26.md) |
-| Twenty-seven class reading   | [SharedPreferences, Passing Data With Extras, And Integration Testing](Class-19.md)        |
+| Twenty-seven class reading   | [SharedPreferences, Passing Data With Extras, And Integration Testing](Class-27.md)        |
 | Prep: Introduction to SQL    | [Databases & SQL Notes](sql-notes.md)                                                      |
 | Practice in the Terminal     | [terminal commands](terminal.md)                                                           |
 | Data Structures              | [Data Structures](Data-Structures.md)                                                      |
