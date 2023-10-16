@@ -13,7 +13,7 @@
    - Continuous Improvement
    - Quality Assurance
    - Risk Management
-   - 
+
  3. Create an analogy for Tasks and the back stack. Have we used a similar system before? Explain.
     An analogy for tasks and the back stack in mobile app development could be compared to a stack of plates in a 
     kitchen. Each plate represents an activity in the app, and the stack of plates represents the task or the sequence 
@@ -39,3 +39,7 @@
      to returning to the Home screen.
 
   and its similar to the call stack in data structure. 
+
+
+## Things I want to know more about
+   - Android SharedPreferences API
