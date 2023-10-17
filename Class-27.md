@@ -2,7 +2,7 @@
 
 
  1. What is a technology you’ve used before that is similar to Shared Preferences?
-    Cookies
+    local storage
 
  2. Why is testing important? Give at least 4 reasons, and explain which is the most important to you and why.
    - Identifying and Preventing Bugs and Errors
