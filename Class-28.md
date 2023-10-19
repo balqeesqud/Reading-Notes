@@ -17,3 +17,8 @@ of dynamic data within an Android app.
 2. Share a screenshot of a recycler view in an application you use!
    My contact List
    ![Contact List](assests/conatctList.jpeg)
+
+## Things I want to know more about
+   - RecyclerView.Adapter: Understand how to create a custom adapter for my RecyclerView
+   - LayoutManagers: Learn about different layout managers available for RecyclerView, such as LinearLayoutManager,
+     and GridLayoutManager, since each one serves different purposes. 
