@@ -31,6 +31,7 @@ throughout Java course. It is a way to document and highlight my new knowledge.
 | 26th class reading        | [Class 26: Android Basics - Activities, Layouts, Event Handlers, And Intents](Class-26.md) |
 | 27th class reading        | [SharedPreferences, Passing Data With Extras, And Integration Testing](Class-27.md)        |
 | 28th class reading        | [RecyclerViews](Class-28.md)                                                               |
+| 29th class reading        | [Room](Class-29.md)                                                                        |
 | Prep: Introduction to SQL | [Databases & SQL Notes](sql-notes.md)                                                      |
 | Practice in the Terminal  | [terminal commands](terminal.md)                                                           |
 | Data Structures           | [Data Structures](Data-Structures.md)                                                      |
