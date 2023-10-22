@@ -25,3 +25,8 @@
    The app can use the **DAOs** to retrieve data from the database as instances of the associated data entity objects.
    In essence, a DAO acts as a bridge between the application and the database, offering a structured and consistent 
    way to manage data. 
+
+## Things I want to know more about
+- Testing: To know how to write unit tests for your database operations using Room's testing utilities.
+- Best Practices: To follow best practices for structuring your Room-related code, maintaining a clean and organized 
+  database layer. 
