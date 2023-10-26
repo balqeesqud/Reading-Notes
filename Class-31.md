@@ -17,3 +17,8 @@
    
 2. **What AWS Region is closest to you?**
    "Middle East (Bahrain)" Region.
+
+
+## Things I want to know more about
+   - Authentication and Authorization
+   - API Development
