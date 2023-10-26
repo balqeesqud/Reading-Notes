@@ -33,6 +33,7 @@ throughout Java course. It is a way to document and highlight my new knowledge.
 | 28th class reading        | [RecyclerViews](Class-28.md)                                                               |
 | 29th class reading        | [Room](Class-29.md)                                                                        |
 | 30th class reading        | [Hash Tables](HashTables.md)                                                               |
+| 31st class reading        | [AWS Amplify, Part 1](Class-31.md)                                                         |
 | Prep: Introduction to SQL | [Databases & SQL Notes](sql-notes.md)                                                      |
 | Practice in the Terminal  | [terminal commands](terminal.md)                                                           |
 | Data Structures           | [Data Structures](Data-Structures.md)                                                      |
