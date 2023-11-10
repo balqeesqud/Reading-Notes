@@ -22,3 +22,19 @@
     - **Enhanced User Experience:** In applications with a user interface, asynchronous methods can prevent the 
       interface from freezing during resource-intensive operations, providing a smoother and more interactive user 
       experience.
+
+
+## Things I want to know more about
+
+- Relational Data Modeling:
+  1. Understand the concepts of one-to-many and many-to-one relationships in the context of data modeling.
+  2. Explore normalization and de-normalization strategies.
+
+
+- DynamoDB and Relationships:
+  1. Explore how DynamoDB supports or models relationships.
+  2. Learn about strategies for handling relationships in NoSQL databases.
+
+- Optimizing for Performance:
+  1. Understand how to optimize queries and data retrieval for performance.
+  2. Explore techniques such as batching and caching.
