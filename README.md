@@ -35,6 +35,7 @@ throughout Java course. It is a way to document and highlight my new knowledge.
 | 30th class reading        | [Hash Tables](HashTables.md)                                                               |
 | 31st class reading        | [AWS Amplify, Part 1](Class-31.md)                                                         |
 | 32nd class reading        | [AWS Amplify, Part 2](Class-32.md)                                                         |
+| 33th class reading        | [One-To-Many / Many-To-One Relationships In GraphQL And DynamoDb](Class-33.md)             |
 | Prep: Introduction to SQL | [Databases & SQL Notes](sql-notes.md)                                                      |
 | Practice in the Terminal  | [terminal commands](terminal.md)                                                           |
 | Data Structures           | [Data Structures](Data-Structures.md)                                                      |
