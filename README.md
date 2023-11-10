@@ -37,6 +37,7 @@ throughout Java course. It is a way to document and highlight my new knowledge.
 | 32nd class reading        | [AWS Amplify, Part 2](Class-32.md)                                                         |
 | 33th class reading        | [One-To-Many / Many-To-One Relationships In GraphQL And DynamoDb](Class-33.md)             |
 | 34th class reading        | [Publishing To The Google Play Store](Class-34.md)                                         |
+| 35th class reading        | [Implementation: Graphs](Class-35.md)                                                      |
 | Prep: Introduction to SQL | [Databases & SQL Notes](sql-notes.md)                                                      |
 | Practice in the Terminal  | [terminal commands](terminal.md)                                                           |
 | Data Structures           | [Data Structures](Data-Structures.md)                                                      |
