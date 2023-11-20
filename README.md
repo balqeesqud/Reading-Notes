@@ -39,6 +39,7 @@ throughout Java course. It is a way to document and highlight my new knowledge.
 | 34th class reading        | [Publishing To The Google Play Store](Class-34.md)                                         |
 | 35th class reading        | [Implementation: Graphs](Class-35.md)                                                      |
 | 36th class reading        | [Authentication With Cognito](Class-36.md)                                                 |
+| 37th class reading        | [S3 Storage](Class-37.md)                                                                  |
 | Prep: Introduction to SQL | [Databases & SQL Notes](sql-notes.md)                                                      |
 | Practice in the Terminal  | [terminal commands](terminal.md)                                                           |
 | Data Structures           | [Data Structures](Data-Structures.md)                                                      |
