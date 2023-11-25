@@ -40,6 +40,10 @@ throughout Java course. It is a way to document and highlight my new knowledge.
 | 35th class reading        | [Implementation: Graphs](Class-35.md)                                                      |
 | 36th class reading        | [Authentication With Cognito](Class-36.md)                                                 |
 | 37th class reading        | [S3 Storage](Class-37.md)                                                                  |
+| 38th class reading        | [Intent Filters ](Class-38.md)                                                             |
+| 39th class reading        | [Location](Class-39.md)                                                                    |
+| 41st class reading        | [Analytics And Text-To-Speech](Class-41.md)                                                |
+| 42nd class reading        | [Monetization And AdMob Ads](Class-42.md)                                                  |
 | Prep: Introduction to SQL | [Databases & SQL Notes](sql-notes.md)                                                      |
 | Practice in the Terminal  | [terminal commands](terminal.md)                                                           |
 | Data Structures           | [Data Structures](Data-Structures.md)                                                      |
