@@ -44,6 +44,7 @@ throughout Java course. It is a way to document and highlight my new knowledge.
 | 39th class reading        | [Location](Class-39.md)                                                                    |
 | 41st class reading        | [Analytics And Text-To-Speech](Class-41.md)                                                |
 | 42nd class reading        | [Monetization And AdMob Ads](Class-42.md)                                                  |
+| 42nd Readings: Ethics     | [Ethics](Ethics.md)                                                                        |
 | Prep: Introduction to SQL | [Databases & SQL Notes](sql-notes.md)                                                      |
 | Practice in the Terminal  | [terminal commands](terminal.md)                                                           |
 | Data Structures           | [Data Structures](Data-Structures.md)                                                      |
